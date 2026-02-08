@@ -2,12 +2,8 @@
 - name: Play level variables example
   hosts: localhost
   connection: local
-
-  vars:
-    COURSE: "DevOps with AWS"
-    DURATION: "140HRS"
-    TRAINER: "Sivakumar Reddy"
-
+  vars_files:
+    - course.yaml
   tasks:
     - name: Print play level variables
       ansible.builtin.debug:
