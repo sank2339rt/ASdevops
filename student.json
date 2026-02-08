@@ -1,0 +1,60 @@
+{
+  "Students": [
+    {
+      "StudentID": 101,
+      "Name": "Rahul",
+      "Gender": "Male",
+      "Age": 15,
+      "Class": 10,
+      "Section": "A",
+      "Marks": {
+        "Math": 85,
+        "Science": 78,
+        "English": 88
+      },
+      "Total": 251,
+      "Result": "Pass"
+    },
+    {
+      "StudentID": 102,
+      "Name": "Sneha",
+      "Gender": "Female",
+      "Age": 14,
+      "Class": 9,
+      "Section": "B",
+      "Marks": {
+        "Math": 92,
+        "Science": 81,
+        "English": 79
+      },
+      "Total": 252,
+      "Result": "Pass"
+    },
+    {
+      "StudentID": 103,
+      "Name": "Arjun",
+      "Gender": "Male",
+      "Age": 15,
+      "Class": 10,
+      "Section": "A",
+      "Marks": {
+        "Math": 67,
+        "Science": 72,
+        "English": 70
+      },
+      "Total": 209,
+      "Result": "Pass"
+    },
+    {
+      "StudentID": 104,
+      "Name": "Priya",
+      "Gender": "Female",
+      "Age": 14,
+      "Class": 9,
+      "Section": "B",
+      "Marks": {
+        "Math": 45,
+        "Science": 50,
+        "English": 48
+      },
+      "Total": 143,

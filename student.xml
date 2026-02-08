@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <StudentID>101</StudentID>
+        <Name>Rahul</Name>
+        <Gender>Male</Gender>
+        <Age>15</Age>
+        <Class>10</Class>
+        <Section>A</Section>
+        <Marks>
+            <Math>85</Math>
+            <Science>78</Science>
+            <English>88</English>
+        </Marks>
+        <Total>251</Total>
+        <Result>Pass</Result>
+    </Student>
+
+    <Student>
+        <StudentID>102</StudentID>
+        <Name>Sneha</Name>
+        <Gender>Female</Gender>
+        <Age>14</Age>
+        <Class>9</Class>
+        <Section>B</Section>
+        <Marks>
+            <Math>92</Math>
+            <Science>81</Science>
+            <English>79</English>
+        </Marks>
+        <Total>252</Total>
+        <Result>Pass</Result>
+    </Student>
+
+    <Student>
+        <StudentID>103</StudentID>
+        <Name>Arjun</Name>
+        <Gender>Male</Gender>
+        <Age>15</Age>
+        <Class>10</Class>
+        <Section>A</Section>
+        <Marks>
+            <Math>67</Math>
+            <Science>72</Science>
+            <English>70</English>
+        </Marks>
+        <Total>209</Total>
+        <Result>Pass</Result>
+    </Student>
+
+    <Student>
+        <StudentID>104</StudentID>
+        <Name>Priya</Name>
+        <Gender>Female</Gender>
+        <Age>14</Age>
+        <Class>9</Class>
+        <Section>B</Section>
+        <Marks>
+            <Math>45</Math>
+            <Science>50</Science>
+            <English>48</English>
+        </Marks>
+        <Total>143</Total>
+        <Result>Fail</Result>
+    </Student>
+</Students>
