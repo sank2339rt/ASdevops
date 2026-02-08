@@ -1,6 +1,7 @@
 ---
 - name: Play level variables example
-  hosts: localhost
+  hosts_file:
+  - hosts.yaml
   connection: local
   vars_files:
     - course.yaml
